@@ -229,6 +229,7 @@ described in [RFC 8032]
  * [leveldb](https://github.com/crystal-community/leveldb) - Crystal bindings for LevelDB
  * [rocksdb.cr](https://github.com/maiha/rocksdb.cr) - RocksDB client
  * [surrealdb.cr](https://github.com/yorci/surrealdb.cr) - Unoffical SurrealDB HTTP & Websocket Client
+ * [crystal-supabase](https://github.com/Skrebnevf/crystal-supabase) - Supabase client
 
 ## Database Tools
  * [migrate](https://github.com/vladfaust/migrate.cr) - A simpler database migration tool with transactions
@@ -357,6 +358,7 @@ described in [RFC 8032]
  * [crystal-fann](https://github.com/NeuraLegion/crystal-fann) - FANN (Fast Artifical Neural Network) binding
  * [mxnet.cr](https://github.com/toddsundsted/mxnet.cr) - Bindings for [MXNet](https://mxnet.incubator.apache.org/)
  * [shainet](https://github.com/NeuraLegion/shainet) - SHAInet (Neural Network in pure crystal)
+ * [crystal-mistral](https://github.com/Skrebnevf/crystal-mistral) - Mistral AI client
 
 ## Markdown/Text Processors
  * [cr-cmark-gfm](https://github.com/amauryt/cr-cmark-gfm) -  Crystal C bindings for cmark-gfm to work with Commonmark and Github Flavored Markdown
